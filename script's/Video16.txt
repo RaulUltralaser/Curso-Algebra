@@ -1,0 +1,19 @@
+Hola bienvenido de nuevo, en esta ocasión veremos seguramente el tema más 
+común, en cuanto al algebra y en realidad es muy sencillo, sin embargo las 
+escuelas pasan mucho tiempo enseñando esto, se llaman productos notables, o 
+productos especiales, porque son una serie de expresiónes algebraicas, muy comunes, 
+tan comunes que se opto por darles nombres, en este sentido los productos notables no 
+son más que atajos para efectura productos, que frecuentemente aparecen en el algebra.
+veamoslos en la siguiente tabla 
+
+Nota:no puedo utilizar tablas en este formato asi que hay que añadirla en producción
+pagina87
+
+en la primera columna de izquierda a derecha esta la expresíon algebraica
+y la segunda algo llamado expansión, en realidad y nuevamente no hay que hacer nada
+más que utilizar nuestros axiomas, y la definición de potencia para poder expresar 
+los productos notables, en otros terminos, aqui quiero aclarar que no es siempre
+necesario, en ocasiones es más sencillo trabajar con el producto notable, 
+y no siempre se requiere expandirlo. 
+
+Nota utilizar algunos ejemplos con raicez y numeros racionales
